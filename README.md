@@ -8,7 +8,7 @@ Before running this application, you need to make sure you have MySQL running lo
 
 1. Run MySQL in docker using the following command
 ```bash
-docker compose up
+docker compose up -d
 ```
 2. Populate MySQL with the sample dataset
 ```bash
